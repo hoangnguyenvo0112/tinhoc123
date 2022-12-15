@@ -1,0 +1,16 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex b4d2418..29bb01e 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,4 +6,9 @@[m
+     <body>[m
+         <p>This is andasfsdf example fsdfof121231321a simple HTML page with one paragraph.</p>[m
+     </body>dsfsdfsdfsdf[m
+[31m-</html>sdfsdf[m
+\ No newline at end of file[m
+[32m+[m[32m</html>sdfsdf[m
+[32m+[m[32m20[m
+[32m+[m[32m23[m
+[32m+[m[32m23[m
+[32m+[m[32m24[m
+[32m+[m[32m234[m
